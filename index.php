@@ -2,8 +2,8 @@
 <?php $title = 'Home'; ?>
 
 <div class="container">
-    <div class="mt-4 p-2 bg-secondary text-white rounded" style="width: 60%;">
-        <h3>Check your zodiac.</h3>
+    <div class="text-success" style="width: 60%;">
+        <h3>Jas H</h3>
         <p>
             Enter your birth year to know your Zodiac sign!
         </p>
